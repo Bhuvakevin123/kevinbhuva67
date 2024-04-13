@@ -1,0 +1,11 @@
+footer {
+    display: grid;
+    height: 100px;
+    color: white;
+    background-color: rgb(3, 3, 3);
+}
+.kevin{
+   
+        background-color: black;
+         text-decoration: none;
+}
